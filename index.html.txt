@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html >
+<head>
+ 
+  <title>Simple Page</title>
+</head>
+
+<body>
+  <h1>Hello, World!</h1>
+  <p>Welcome to my simple HTML page.</p>
+  <p>This is external examination</p>
+  </body>
+</html>
